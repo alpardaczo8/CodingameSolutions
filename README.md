@@ -1,0 +1,2 @@
+# CodingameSolutions
+Codingame puzzle solutions
